@@ -1,0 +1,2 @@
+DEBUGGING = False
+DEFAULT_FILE_PATH = "./Data/"
